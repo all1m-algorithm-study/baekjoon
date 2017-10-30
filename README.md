@@ -7,7 +7,7 @@ AL林 멤버들의 백준 온라인 저지 문제들 코드 아카이브
 
 # How can I commit? 어떻게 커밋하죠?
 1. Make a directory named with the problem's number.  
-백준 문제의 고유 숫자로 이름지어서 폴더를 새로 하나 만드세요.  
+백준 문제의 고유 숫자와 문제이름으로 폴더를 새로 하나 만드세요. (예. 1000번: A+B)   
 파일 이름 작성하는 칸에서 폴더이름을 쓰고 '/'를 입력하면 자동으로 폴더가 만들어집니다. 물론 해당 파일 작성을 끝내야 폴더가 생성됩니다.
 2. Write or upload your source file named with your handle.   
 여러분의 아이디(핸들)로 이름지은 파일을 작성하거나 업로드하세요.  
